@@ -1,4 +1,4 @@
-[![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
+![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
