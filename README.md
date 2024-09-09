@@ -1,4 +1,4 @@
-![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
+<!--![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)-->
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Project and Website Development<br>👯 I’m looking to collaborate on Machine Learning Fused Model and React app<br>🤝 I’m looking for help with Machine Learning techniques and building efficient models<br>🌱 I’m currently learning React, Express, NLP<br>💬 Ask me about Java, Machine Learning and Mathematics<br>⚡ Fun fact: I love to solve puzzles and debug code more than just writing it!
 
