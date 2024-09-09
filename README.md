@@ -1,6 +1,6 @@
 ![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Project and Website Development<br>👯 I’m looking to collaborate on Machine Learning Fused Model and React app<br>🤝 I’m looking for help with Machine Learning techniques and building efficient models<br>🌱 I’m currently learning React, Express, NLP<br>💬 Ask me about Java, Machine Learning and Mathematics<br>⚡ Fun fact :I love to solve puzzles and debug code more than just writing it!
+🔭 I’m currently working on Machine Learning Project and Website Development<br>👯 I’m looking to collaborate on Machine Learning Fused Model and React app<br>🤝 I’m looking for help with Machine Learning techniques and building efficient models<br>🌱 I’m currently learning React, Express, NLP<br>💬 Ask me about Java, Machine Learning and Mathematics<br>⚡ Fun fact: I love to solve puzzles and debug code more than just writing it!
 
 
 ## 🌐 Socials:
@@ -16,8 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayankraj052&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Dev Quote
+⚡No matter which field of work you want to go in, it is of great importance to learn at least one programming language.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayankraj052&icon=0&color=0)](https://visitcount.itsvg.in)
