@@ -11,7 +11,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mayankraj052&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankraj052&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj052&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayankraj052&theme=blue_green)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayankraj052&theme=blue_green)
 
 ## 🌟 GitHub Profile Summary:
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayankraj052&theme=blue_green)
