@@ -1,5 +1,8 @@
 <!---![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)--->
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5FF&center=true&vCenter=true&width=435&lines=Hii!,+I'm+Mayank+Raj;Web+Developer+%7C+ML+Enthusiast;Always+Learning+%26+Growing"></a>
+<a href="https://git.io/typing-svg" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A00E0&center=true&vCenter=true&width=500&height=50&lines=Hii!+I'm+Mayank+Raj;Web+Developer+%7C+ML+Enthusiast;Always+Learning+%26+Growing&gradient=true&colors=22C5FF,4A00E0,8E2DE2" alt="Typing SVG" />
+</a>
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Project and Website Development<br>👯 I’m looking to collaborate on Machine Learning Fused Model and React app<br>🤝 I’m looking for help with Machine Learning techniques and building efficient models<br>🌱 I’m currently learning React, Express, NLP<br>💬 Ask me about Java, Machine Learning and Mathematics<br>⚡ Fun fact: I love to solve puzzles and debug code more than just writing it!
 
