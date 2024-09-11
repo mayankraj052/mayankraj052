@@ -1,8 +1,8 @@
-<!--![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)-->
+![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Project and Website Development<br>👯 I’m looking to collaborate on Machine Learning Fused Model and React app<br>🤝 I’m looking for help with Machine Learning techniques and building efficient models<br>🌱 I’m currently learning React, Express, NLP<br>💬 Ask me about Java, Machine Learning and Mathematics<br>⚡ Fun fact: I love to solve puzzles and debug code more than just writing it!
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Back+End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mayankraj052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank052/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26664777/mayank) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mayankraj2511) 
