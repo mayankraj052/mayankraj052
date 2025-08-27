@@ -1,4 +1,4 @@
-<!---![logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)--->
+[logo](https://github.com/mayankraj052/mayankraj052/blob/main/Mayank%20Raj.png)
 <a href="https://git.io/typing-svg" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A00E0&center=true&vCenter=true&width=500&height=50&lines=Hii!+I'm+Mayank+Raj;Web+Developer+%7C+ML+Enthusiast;Always+Learning+%26+Growing&gradient=true&colors=22C5FF,4A00E0,8E2DE2" alt="Typing SVG" />
 </a>
